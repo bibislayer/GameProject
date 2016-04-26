@@ -11,3 +11,19 @@
 *.sdf
 
 *.suo
+
+/Content/InfinityBladeEffects
+
+/Content/InfinityBladeAdversaries
+
+/Build
+
+/Source
+
+/DerivedDataCache
+
+/Intermediate
+
+GameProject.uproject
+
+GameProject.VC.db
