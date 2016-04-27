@@ -6,11 +6,11 @@
 
 /Saved
 
-*.sln
-
 *.sdf
 
 *.suo
+
+/Content/StarterContent
 
 /Content/InfinityBladeEffects
 
@@ -18,12 +18,6 @@
 
 /Build
 
-/Source
-
 /DerivedDataCache
 
 /Intermediate
-
-GameProject.uproject
-
-GameProject.VC.db
