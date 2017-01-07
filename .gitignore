@@ -1,47 +1,42 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+/Binaries
 
-# Folder config file
-Desktop.ini
+/DerivedDataCache
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+/Intermediate
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+/Saved
 
-# Windows shortcuts
-*.lnk
+*.sdf
 
-# =========================
-# Operating System Files
-# =========================
+*.suo
 
-# OSX
-# =========================
+/Content/StarterContent
 
-.DS_Store
-.AppleDouble
-.LSOverride
+/Content/InfinityBladeEffects
 
-# Thumbnails
-._*
+/Content/InfinityBladeAdversaries
 
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
+/Build
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+/DerivedDataCache
+
+/Intermediate
+/Content/InfinityBladeWeapons/Effects
+/Content/InfinityBladeWeapons/Maps
+/Content/InfinityBladeWeapons/Weapons/Blunt
+/Content/InfinityBladeWeapons/Weapons/Dual_Blade
+/Content/InfinityBladeWeapons/Weapons/Maps
+/Content/InfinityBladeWeapons/Weapons/Staff
+/Content/InfinityBladeWeapons/Weapons/Weapon_ForgingHammers
+/Content/InfinityBladeWeapons/Weapons/Blade/Silly_Weapons
+/Content/InfinityBladeWeapons/Weapons/Blade/Axes
+/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_HeroSword11
+/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_HeroSword16
+/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_HeroSword17
+/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_HeroSword22
+/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_SwordB
+/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackKnight
+/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_BlackWyrmBlade
+/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer
+/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Glimmer
+/Content/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_HeroSword10
